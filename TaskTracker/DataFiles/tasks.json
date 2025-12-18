@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 1,
+    "Title": "Complete project proposal",
+    "Description": "Write and submit the project proposal document",
+    "DueDate": "2025-12-20T00:00:00",
+    "Priority": 2,
+    "Status": 1,
+    "Assignee": "John Smith",
+    "CreatedDate": "2025-12-15T10:30:00",
+    "CompletedDate": null
+  },
+  {
+    "Id": 2,
+    "Title": "Review code changes",
+    "Description": "Review pull requests and provide feedback",
+    "DueDate": "2025-12-18T00:00:00",
+    "Priority": 1,
+    "Status": 0,
+    "Assignee": "Jane Doe",
+    "CreatedDate": "2025-12-15T11:00:00",
+    "CompletedDate": null
+  },
+  {
+    "Id": 3,
+    "Title": "Prepare presentation",
+    "Description": "Create slides for the quarterly review meeting",
+    "DueDate": "2025-12-22T00:00:00",
+    "Priority": 0,
+    "Status": 0,
+    "Assignee": "Bob Johnson",
+    "CreatedDate": "2025-12-15T11:30:00",
+    "CompletedDate": null
+  }
+]

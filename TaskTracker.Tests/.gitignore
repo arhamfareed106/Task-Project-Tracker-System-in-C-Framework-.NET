@@ -1,0 +1,10 @@
+# Test results
+[TestResults]/
+[BuildResults]/
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+
+# xUnit
+*.xunit.cache

@@ -1,0 +1,14 @@
+E:\coding\company project\group work\C#\ReflectionTest\bin\Debug\net8.0\ReflectionTest.exe
+E:\coding\company project\group work\C#\ReflectionTest\bin\Debug\net8.0\ReflectionTest.deps.json
+E:\coding\company project\group work\C#\ReflectionTest\bin\Debug\net8.0\ReflectionTest.runtimeconfig.json
+E:\coding\company project\group work\C#\ReflectionTest\bin\Debug\net8.0\ReflectionTest.dll
+E:\coding\company project\group work\C#\ReflectionTest\bin\Debug\net8.0\ReflectionTest.pdb
+E:\coding\company project\group work\C#\ReflectionTest\obj\Debug\net8.0\ReflectionTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding\company project\group work\C#\ReflectionTest\obj\Debug\net8.0\ReflectionTest.AssemblyInfoInputs.cache
+E:\coding\company project\group work\C#\ReflectionTest\obj\Debug\net8.0\ReflectionTest.AssemblyInfo.cs
+E:\coding\company project\group work\C#\ReflectionTest\obj\Debug\net8.0\ReflectionTest.csproj.CoreCompileInputs.cache
+E:\coding\company project\group work\C#\ReflectionTest\obj\Debug\net8.0\ReflectionTest.dll
+E:\coding\company project\group work\C#\ReflectionTest\obj\Debug\net8.0\refint\ReflectionTest.dll
+E:\coding\company project\group work\C#\ReflectionTest\obj\Debug\net8.0\ReflectionTest.pdb
+E:\coding\company project\group work\C#\ReflectionTest\obj\Debug\net8.0\ReflectionTest.genruntimeconfig.cache
+E:\coding\company project\group work\C#\ReflectionTest\obj\Debug\net8.0\ref\ReflectionTest.dll

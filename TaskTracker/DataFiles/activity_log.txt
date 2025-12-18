@@ -1,0 +1,8 @@
+[2025-12-15 10:30:00] [INFO] Application started
+[2025-12-15 10:31:00] [INFO] Loaded 3 tasks from repository
+[2025-12-15 11:00:00] [INFO] Added task with ID 4
+[2025-12-15 11:30:00] [WARNING] Task with ID 5 not found
+[2025-12-15 12:00:00] [INFO] Updated task with ID 2
+[2025-12-15 12:30:00] [INFO] Deleted task with ID 1
+[2025-12-15 13:00:00] [ERROR] Failed to save tasks: Insufficient disk space
+[2025-12-15 13:30:00] [INFO] Generated overdue tasks report
